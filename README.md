@@ -1,2 +1,5 @@
-# crawled_krx
-Crawls finance data from KRX(KoRea eXchange) Project 01: List of Tickers. 
+# Let us crawl data from KRX(Korea eXchange)
+
+Project 01: Basic Info for each stock.
+
+- Get ticker, name, market, type for each stock.
